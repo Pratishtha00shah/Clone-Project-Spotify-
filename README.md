@@ -1,3 +1,3 @@
-# Clone-Project-Spotify-
-It is a CSS mini Clone project where we have used both HTML and CSS languages.
+# PhotoGrapher-Sidebar-Menu-Landing-Page
+It is a CSS mini Clone project where I have used HTML and CSS Only
 
